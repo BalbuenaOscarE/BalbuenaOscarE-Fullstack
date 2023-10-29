@@ -1,0 +1,23 @@
+{
+    "proyectos": [
+        {
+            "url": "./projects/project_1.html",
+            "nombre": "Proyecto 1",
+            "imagen": "assets/projects/principal_1.jpg",
+            "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+        },
+        {
+            "url": "./projects/project_2",
+            "nombre": "Proyecto 2",
+            "imagen": "assets/projects/principal_2.jpg",
+            "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+        },
+        {
+            "url": "./projects/project_3",
+            "nombre": "Proyecto 3",
+            "imagen": "assets/projects/principal_3.jpg",
+            "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+        }
+
+    ]
+}

@@ -1,0 +1,32 @@
+@import url(reset.css);
+@import url(variables.css);
+@import url(projects.css);
+@import url(index.css);
+
+
+
+
+html{
+
+    box-sizing: border-box;
+
+    color: var(--primary-color);
+
+}
+
+body{
+    
+    background-color: var(--primary-color);
+    
+    color: var(--text-color);
+
+}
+
+
+.navbar{
+
+    background-color: var(--secondary-color);
+    
+    color: var(--primary-color);
+    
+}

@@ -1,6 +1,6 @@
 :root{
 
-    --primary-color: rgba(0, 0, 0, 0.75);
+    --primary-color: rgba(128, 128, 128, 0.1);
 
     --secondary-color: black ;
 
@@ -33,7 +33,7 @@ font-size: 1rem;
 
 h1{
 
-    color: var(--secondary-color);
+    color: gray;
 
     text-align: center;
 
